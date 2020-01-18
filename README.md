@@ -10,9 +10,9 @@ Install the dependencies.
 $ sudo apt-get install php-gd
 ```
 
-> captcha.php created captcha image
-> index.php is very simple usage captcha for testing
-> you can change captcha and customize
+ - captcha.php created captcha image
+ - index.php is very simple usage captcha for testing
+ - you can change captcha and customize
 
 # customization!
 
